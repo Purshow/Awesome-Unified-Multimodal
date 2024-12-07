@@ -8,6 +8,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
  **Show-o**: One Single Transformer to Unify Multimodal Understanding and Generation  [![Static Badge](https://img.shields.io/badge/2408.12528-red?logo=arxiv)](https://arxiv.org/abs/2408.12528)  
  **VILA-U**: a Unified Foundation Model Integrating Visual Understanding and Generation  [![Static Badge](https://img.shields.io/badge/2409.04429-red?logo=arxiv)](https://arxiv.org/abs/2409.04429)    
  **Emu2**: Generative Multimodal Models are In-Context Learners [![Static Badge](https://img.shields.io/badge/2312.13286-red?logo=arxiv)](https://arxiv.org/abs/2312.13286)   
+ **MIO**: A Foundation Model on Multimodal Tokens [![Static Badge](https://img.shields.io/badge/2409.17692-red?logo=arxiv)](https://arxiv.org/abs/2409.17692)   
+ **MMAR**: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling  [![Static Badge](https://img.shields.io/badge/2410.10798-red?logo=arxiv)](https://arxiv.org/abs/2410.10798)   
  **Emu3**: Next-Token Prediction is All You Need  [![Static Badge](https://img.shields.io/badge/2409.18869-red?logo=arxiv)](https://arxiv.org/abs/2409.18869)   
  **PUMA**: Empowering Unified MLLM with Multi-granular Visual Generation   [![Static Badge](https://img.shields.io/badge/2410.13861-red?logo=arxiv)](https://arxiv.org/abs/2410.13861)   
  **Janus**: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation  [![Static Badge](https://img.shields.io/badge/2410.13848-red?logo=arxiv)](https://arxiv.org/abs/2410.13848)    
