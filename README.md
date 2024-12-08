@@ -6,9 +6,6 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + Chameleon: Mixed-Modal Early-Fusion Foundation Models
   [![Static Badge](https://img.shields.io/badge/2405.09818-red?logo=arxiv)](https://arxiv.org/abs/2405.09818)  
 
-+ Towards Semantic Equivalence of Tokenization in Multimodal LLM
-  [![Static Badge](https://img.shields.io/badge/2406.05127-red?logo=arxiv)](https://arxiv.org/abs/2406.05127)  
-
 + Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model
   [![Static Badge](https://img.shields.io/badge/2408.11039-red?logo=arxiv)](https://arxiv.org/abs/2408.11039)
 
@@ -21,14 +18,14 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + Emu2: Generative Multimodal Models are In-Context Learners
   [![Static Badge](https://img.shields.io/badge/2312.13286-red?logo=arxiv)](https://arxiv.org/abs/2312.13286)
 
++ Emu3: Next-Token Prediction is All You Need
+  [![Static Badge](https://img.shields.io/badge/2409.18869-red?logo=arxiv)](https://arxiv.org/abs/2409.18869)
+
 + MIO: A Foundation Model on Multimodal Tokens
   [![Static Badge](https://img.shields.io/badge/2409.17692-red?logo=arxiv)](https://arxiv.org/abs/2409.17692)
 
 + MMAR: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling
   [![Static Badge](https://img.shields.io/badge/2410.10798-red?logo=arxiv)](https://arxiv.org/abs/2410.10798)
-
-+ Emu3: Next-Token Prediction is All You Need
-  [![Static Badge](https://img.shields.io/badge/2409.18869-red?logo=arxiv)](https://arxiv.org/abs/2409.18869)
 
 + PUMA: Empowering Unified MLLM with Multi-granular Visual Generation
   [![Static Badge](https://img.shields.io/badge/2410.13861-red?logo=arxiv)](https://arxiv.org/abs/2410.13861)
