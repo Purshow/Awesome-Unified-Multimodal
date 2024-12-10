@@ -48,6 +48,10 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + [2024-11-12] JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation
   [![Static Badge](https://img.shields.io/badge/2411.07975-red?logo=arxiv)](https://arxiv.org/abs/2411.07975) [![Static Badge](https://img.shields.io/badge/JanusFlow-black?logo=github)](https://github.com/deepseek-ai/Janus)
 
++ [2024-11-28] Orthus: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads
+    [![Static Badge](https://img.shields.io/badge/2412.00127-red?logo=arxiv)](https://arxiv.org/abs/2412.00127)
+
+
 + [2024-12-04] TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation
   [![Static Badge](https://img.shields.io/badge/2412.03069-red?logo=arxiv)](https://arxiv.org/abs/2412.03069) [![Static Badge](https://img.shields.io/badge/TokenFlow-black?logo=github)](https://github.com/ByteFlow-AI/TokenFlow)
 
