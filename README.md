@@ -70,6 +70,9 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + [2024-12-11] Multimodal Latent Language Modeling with Next-Token Diffusion
   [![Static Badge](https://img.shields.io/badge/2412.08635-red?logo=arxiv)](https://arxiv.org/abs/2412.08635)
 
++ [2024-12-12] SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding
+  [![Static Badge](https://img.shields.io/badge/2412.09604-red?logo=arxiv)](https://arxiv.org/abs/2412.09604)
+
 + [2024-12-18] MetaMorph: Multimodal Understanding and Generation via Instruction Tuning
   [![Static Badge](https://img.shields.io/badge/2412.14164-red?logo=arxiv)](https://arxiv.org/abs/2412.14164)
 
