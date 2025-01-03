@@ -75,8 +75,12 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 + [2024-12-18] MetaMorph: Multimodal Understanding and Generation via Instruction Tuning
   [![Static Badge](https://img.shields.io/badge/2412.14164-red?logo=arxiv)](https://arxiv.org/abs/2412.14164)
-
-
+  
++ [2024-12-26] LMFusion: Adapting Pretrained Language Models for Multimodal Generation
+  [![Static Badge](https://img.shields.io/badge/2412.15188-red?logo=arxiv)](https://arxiv.org/abs/2412.15188)
+  
++ [2024-12-31] Dual Diffusion for Unified Image Generation and Understanding
+  [![Static Badge](https://img.shields.io/badge/2501.00289-red?logo=arxiv)](https://arxiv.org/abs/2501.00289)
 
 # Useful Links
 
