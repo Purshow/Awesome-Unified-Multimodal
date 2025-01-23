@@ -82,6 +82,9 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + [2024-12-31] Dual Diffusion for Unified Image Generation and Understanding
   [![Static Badge](https://img.shields.io/badge/2501.00289-red?logo=arxiv)](https://arxiv.org/abs/2501.00289)
 
++ [2024-1-21] VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model
+  [![Static Badge](https://img.shields.io/badge/2501.12327-red?logo=arxiv)](https://arxiv.org/abs/2501.12327)
+
 # Useful Links
 
 + [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models)
