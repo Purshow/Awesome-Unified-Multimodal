@@ -85,6 +85,9 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + [2024-1-21] VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model
   [![Static Badge](https://img.shields.io/badge/2501.12327-red?logo=arxiv)](https://arxiv.org/abs/2501.12327)
 
++ [2024-1-21] Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling
+  [![Static Badge](https://img.shields.io/badge/2501.17811-red?logo=arxiv)](https://arxiv.org/abs/2501.17811)
+  
 # Useful Links
 
 + [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models)
