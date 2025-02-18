@@ -2,6 +2,7 @@
 
 All the papers listed in this project come from my usual reading.
 If you have found some new and interesting papers, I would appreciate it if you let me know! You can contact me via my email address: niuyuwei04@gmail.com 
+
 I am always on the lookout for potential opportunities for discussion and collaboration, particularly internships within the industry. If you have an interest in unifying multimodal models, please do not hesitate to reach out to me.
 
 + [2023-08-12] SEED: Planting a SEED of Vision in Large Language Model
