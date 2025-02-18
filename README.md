@@ -61,6 +61,9 @@ If you have found some new and interesting papers, I would appreciate it if you 
 + [2024-12-05] MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding
   [![Static Badge](https://img.shields.io/badge/2411.17762-red?logo=arxiv)](https://arxiv.org/abs/2411.17762)
 
++ [2024-12-08] SILMM: Self-Improving Large Multimodal Models for Compositional Text-to-Image Generation
+  [![Static Badge](https://img.shields.io/badge/2412.05818-red?logo=arxiv)](https://arxiv.org/abs/2412.05818)
+
 + [2024-12-09] ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance
   [![Static Badge](https://img.shields.io/badge/2412.06673-red?logo=arxiv)](https://arxiv.org/abs/2412.06673)
 
@@ -87,6 +90,13 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 + [2024-1-21] Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling
   [![Static Badge](https://img.shields.io/badge/2501.17811-red?logo=arxiv)](https://arxiv.org/abs/2501.17811)
+
++ [2024-2-7] QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation
+  [![Static Badge](https://img.shields.io/badge/2502.05178-red?logo=arxiv)](https://arxiv.org/abs/2502.05178)
+
++ [2024-2-17] HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation
+  [![Static Badge](https://img.shields.io/badge/2502.12148-red?logo=arxiv)](https://arxiv.org/abs/2502.12148)
+
   
 # Useful Links
 
