@@ -99,6 +99,8 @@ I am always on the lookout for potential opportunities for discussion and collab
 + [2024-2-17] HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation
   [![Static Badge](https://img.shields.io/badge/2502.12148-red?logo=arxiv)](https://arxiv.org/abs/2502.12148)
 
++ [2024-2-27] UniTok: A Unified Tokenizer for Visual Generation and Understanding
+  [![Static Badge](https://img.shields.io/badge/2502.20321-red?logo=arxiv)](https://arxiv.org/abs/2502.20321)
   
 # Useful Links
 
