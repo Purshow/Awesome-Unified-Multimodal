@@ -101,6 +101,9 @@ I am always on the lookout for potential opportunities for discussion and collab
 
 + [2024-2-27] UniTok: A Unified Tokenizer for Visual Generation and Understanding
   [![Static Badge](https://img.shields.io/badge/2502.20321-red?logo=arxiv)](https://arxiv.org/abs/2502.20321)
+
++ [2024-3-] SemHiTok: A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation
+  [![Static Badge](https://img.shields.io/badge/2503.06764-red?logo=arxiv)](https://arxiv.org/abs/2503.06764)
   
 # Useful Links
 
