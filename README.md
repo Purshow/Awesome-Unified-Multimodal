@@ -102,8 +102,12 @@ I am always on the lookout for potential opportunities for discussion and collab
 + [2024-2-27] UniTok: A Unified Tokenizer for Visual Generation and Understanding
   [![Static Badge](https://img.shields.io/badge/2502.20321-red?logo=arxiv)](https://arxiv.org/abs/2502.20321)
 
-+ [2024-3-] SemHiTok: A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation
++ [2024-3-9] SemHiTok: A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation
   [![Static Badge](https://img.shields.io/badge/2503.06764-red?logo=arxiv)](https://arxiv.org/abs/2503.06764)
+
++ [2024-3-10] WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation
+ **The only study that examines whether understanding benefits generation at the level of world knowledge, highly recommended! (since it's also my work, lol)**
+  [![Static Badge](https://img.shields.io/badge/2503.07265-red?logo=arxiv)](https://arxiv.org/abs/2503.07265)
   
 # Useful Links
 
