@@ -108,6 +108,9 @@ I am always on the lookout for potential opportunities for discussion and collab
 + [2024-3-10] WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation  
  **The only study that examines whether understanding benefits generation at the level of world knowledge, highly recommended! (since it's also my work, lol)**
   [![Static Badge](https://img.shields.io/badge/2503.07265-red?logo=arxiv)](https://arxiv.org/abs/2503.07265)
+
++ [2024-3-18] Unified Autoregressive Visual Generation and Understanding with Continuous Tokens  
+  [![Static Badge](https://img.shields.io/badge/2503.13436-red?logo=arxiv)](https://arxiv.org/abs/2503.13436)
   
 # Useful Links
 
