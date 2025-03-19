@@ -111,6 +111,9 @@ I am always on the lookout for potential opportunities for discussion and collab
 
 + [2024-3-18] Unified Autoregressive Visual Generation and Understanding with Continuous Tokens  
   [![Static Badge](https://img.shields.io/badge/2503.13436-red?logo=arxiv)](https://arxiv.org/abs/2503.13436)
+
++ [2024-3-19] DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies  
+  [![Static Badge](https://img.shields.io/badge/2503.14324-red?logo=arxiv)](https://arxiv.org/abs/2503.14324)
   
 # Useful Links
 
