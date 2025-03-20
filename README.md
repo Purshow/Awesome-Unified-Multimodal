@@ -87,29 +87,29 @@ I am always on the lookout for potential opportunities for discussion and collab
 + [2024-12-31] Dual Diffusion for Unified Image Generation and Understanding
   [![Static Badge](https://img.shields.io/badge/2501.00289-red?logo=arxiv)](https://arxiv.org/abs/2501.00289)
 
-+ [2024-1-21] VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model
++ [2025-1-21] VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model
   [![Static Badge](https://img.shields.io/badge/2501.12327-red?logo=arxiv)](https://arxiv.org/abs/2501.12327)
 
-+ [2024-1-21] Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling
++ [2025-1-21] Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling
   [![Static Badge](https://img.shields.io/badge/2501.17811-red?logo=arxiv)](https://arxiv.org/abs/2501.17811)
 
-+ [2024-2-7] QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation
++ [2025-2-7] QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation
   [![Static Badge](https://img.shields.io/badge/2502.05178-red?logo=arxiv)](https://arxiv.org/abs/2502.05178)
 
-+ [2024-2-17] HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation
++ [2025-2-17] HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation
   [![Static Badge](https://img.shields.io/badge/2502.12148-red?logo=arxiv)](https://arxiv.org/abs/2502.12148)
 
-+ [2024-2-27] UniTok: A Unified Tokenizer for Visual Generation and Understanding
++ [2025-2-27] UniTok: A Unified Tokenizer for Visual Generation and Understanding
   [![Static Badge](https://img.shields.io/badge/2502.20321-red?logo=arxiv)](https://arxiv.org/abs/2502.20321)
 
-+ [2024-3-9] SemHiTok: A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation
++ [2025-3-9] SemHiTok: A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation
   [![Static Badge](https://img.shields.io/badge/2503.06764-red?logo=arxiv)](https://arxiv.org/abs/2503.06764)
 
-+ [2024-3-10] WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation  
++ [2025-3-10] WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation  
  **The only study that examines whether understanding benefits generation at the level of world knowledge, highly recommended! (since it's also my work, lol)**
   [![Static Badge](https://img.shields.io/badge/2503.07265-red?logo=arxiv)](https://arxiv.org/abs/2503.07265)
 
-+ [2024-3-18] Unified Autoregressive Visual Generation and Understanding with Continuous Tokens  
++ [2025-3-18] Unified Autoregressive Visual Generation and Understanding with Continuous Tokens  
   [![Static Badge](https://img.shields.io/badge/2503.13436-red?logo=arxiv)](https://arxiv.org/abs/2503.13436)
 
 + [2024-3-19] DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies  
