@@ -123,3 +123,4 @@ I am always on the lookout for potential opportunities for discussion and collab
 # Useful Links
 
 + [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models)
++ [Sota-paper-rating](https://waynejin0918.github.io/SOTA-paper-rating.io/#)
