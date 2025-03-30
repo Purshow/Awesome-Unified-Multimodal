@@ -33,7 +33,7 @@
 - **[2024-03-22] LaVIT: Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization**  
   [![Static Badge](https://img.shields.io/badge/2309.04669-red?logo=arxiv)](https://arxiv.org/abs/2309.04669) [![Static Badge](https://img.shields.io/badge/LaVIT-black?logo=github)](https://github.com/jy0205/LaVIT)  
 - **[2024-04-22] SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation**  
-  [![Static Badge](https://img.shields.io/badge/2404.14396-red?logo=arxiv)](https://arxiv.org/abs/2404.14396) [![Static Badge](https://img.shields.io/badge/SEED_X-black?logo=github)](https://github.com/AILab-CVC/SEED-X)  
+  [![Static Badge](https://img.shields.io/badge/2404.14396-red?logo=arxiv)](https://arxiv.org/abs/2404.14396) [![Static Badge](https://img.shields.io/badge/SEED-X-black?logo=github)](https://github.com/AILab-CVC/SEED-X)
 - **[2024-05-08] Emu: Generative Pretraining in Multimodality**  
   [![Static Badge](https://img.shields.io/badge/2307.05222-red?logo=arxiv)](https://arxiv.org/abs/2307.05222) [![Static Badge](https://img.shields.io/badge/Emu-black?logo=github)](https://github.com/baaivision/Emu)  
 - **[2024-05-08] Emu2: Generative Multimodal Models are In-Context Learners**  
