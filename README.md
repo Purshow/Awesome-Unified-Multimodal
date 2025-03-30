@@ -1,6 +1,7 @@
 # 🌟 Awesome Unified Multimodal Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Welcome to **Awesome-Unified-Multimodal**! This curated collection features cutting-edge papers on unified multimodal models, sourced from my regular readings. I’m passionate about advancing research in this field and am always eager to discover new, exciting work.  
 
 ✨ **Contributions Welcome**: If you’ve come across intriguing papers, please share them with me at [niuyuwei04@gmail.com](mailto:niuyuwei04@gmail.com).  
