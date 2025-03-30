@@ -2,7 +2,7 @@
 # 🌟 Awesome Unified Multimodal Models
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Multimodal Banner](https://via.placeholder.com/800x200.png?text=Unified+Multimodal+Models)  
+
 *Curated papers on unifying multimodal understanding and generation from my regular reading.*
 
 📬 **Have a new paper or collaboration idea?** Reach out to me at: **niuyuwei04@gmail.com**.  
