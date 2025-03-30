@@ -2,6 +2,7 @@
 # 🌟 Awesome Unified Multimodal Models
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
 *Curated papers on unifying multimodal understanding and generation from my regular reading.*
 
