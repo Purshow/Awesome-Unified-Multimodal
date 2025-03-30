@@ -26,10 +26,6 @@
   *Pioneering vision integration into LLMs.*
 
 ### 2024
-- **[2024-03-17] Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**  
-  [![Static Badge](https://img.shields.io/badge/2503.13436-red?logo=arxiv)](https://arxiv.org/abs/2503.13436)  
-- **[2024-03-19] DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies**  
-  [![Static Badge](https://img.shields.io/badge/2503.14324-red?logo=arxiv)](https://arxiv.org/abs/2503.14324)  
 - **[2024-03-22] LaVIT: Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization**  
   [![Static Badge](https://img.shields.io/badge/2309.04669-red?logo=arxiv)](https://arxiv.org/abs/2309.04669) [![Static Badge](https://img.shields.io/badge/LaVIT-black?logo=github)](https://github.com/jy0205/LaVIT)  
 - **[2024-04-22] SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation**  
@@ -100,8 +96,10 @@
   [![Static Badge](https://img.shields.io/badge/2503.07265-red?logo=arxiv)](https://arxiv.org/abs/2503.07265)  
   *⭐ Highly recommended! The only study exploring how understanding boosts generation via world knowledge (and yes, it's my work!).*  
 - **[2025-03-18] Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**  
-  [![Static Badge](https://img.shields.io/badge/2503.13436-red?logo=arxiv)](https://arxiv.org/abs/2503.13436)  
-- **[2025-03-21] UGen: Unified Autoregressive Multimodal Model with Progressive Vocabulary Learning**  
+  [![Static Badge](https://img.shields.io/badge/2503.13436-red?logo=arxiv)](https://arxiv.org/abs/2503.13436) 
+- **[2025-03-19] DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies**  
+  [![Static Badge](https://img.shields.io/badge/2503.14324-red?logo=arxiv)](https://arxiv.org/abs/2503.14324)  
+- **[2025-03-27] UGen: Unified Autoregressive Multimodal Model with Progressive Vocabulary Learning**  
   [![Static Badge](https://img.shields.io/badge/2503.21193-red?logo=arxiv)](https://arxiv.org/abs/2503.21193)  
 
 ---
