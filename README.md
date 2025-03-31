@@ -101,7 +101,8 @@
   [![Static Badge](https://img.shields.io/badge/2503.14324-red?logo=arxiv)](https://arxiv.org/abs/2503.14324)  
 - **[2025-03-27] UGen: Unified Autoregressive Multimodal Model with Progressive Vocabulary Learning**  
   [![Static Badge](https://img.shields.io/badge/2503.21193-red?logo=arxiv)](https://arxiv.org/abs/2503.21193)  
-
+- **[2025-03-27] Harmonizing Visual Representations for Unified Multimodal Understanding and Generation**  
+  [![Static Badge](https://img.shields.io/badge/2503.21979-red?logo=arxiv)](https://arxiv.org/abs/2503.21979)  
 ---
 
 ## 🔗 Useful Links
