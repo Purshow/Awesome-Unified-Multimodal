@@ -105,6 +105,8 @@
 ---
 
 ## 🔗 Useful Links
+- **[(TMLR 2025) Awesome-Autoregressive-Models-in-Vision](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)**  
+  *You can refer this [page](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey?tab=readme-ov-file#unified-understanding-and-generation-multi-modal-llms) for related unified models.* 
 - **[Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models)**  
   *Another excellent resource for multimodal research.*  
 - **[SOTA-Paper-Rating](https://waynejin0918.github.io/SOTA-paper-rating.io/#)**  
