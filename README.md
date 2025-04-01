@@ -98,7 +98,9 @@
 - **[2025-03-18] Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**  
   [![Static Badge](https://img.shields.io/badge/2503.13436-red?logo=arxiv)](https://arxiv.org/abs/2503.13436) 
 - **[2025-03-19] DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies**  
-  [![Static Badge](https://img.shields.io/badge/2503.14324-red?logo=arxiv)](https://arxiv.org/abs/2503.14324)  
+  [![Static Badge](https://img.shields.io/badge/2503.14324-red?logo=arxiv)](https://arxiv.org/abs/2503.14324)
+- **[2025-03-20] Unified Multimodal Discrete Diffusion**  
+  [![Static Badge](https://img.shields.io/badge/2503.20853-red?logo=arxiv)](https://arxiv.org/abs/2503.20853)  
 - **[2025-03-27] UGen: Unified Autoregressive Multimodal Model with Progressive Vocabulary Learning**  
   [![Static Badge](https://img.shields.io/badge/2503.21193-red?logo=arxiv)](https://arxiv.org/abs/2503.21193)  
 - **[2025-03-27] Harmonizing Visual Representations for Unified Multimodal Understanding and Generation**  
