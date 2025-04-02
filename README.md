@@ -94,7 +94,7 @@
   [![Static Badge](https://img.shields.io/badge/2503.06764-red?logo=arxiv)](https://arxiv.org/abs/2503.06764)  
 - **[2025-03-10] WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation**  
   [![Static Badge](https://img.shields.io/badge/2503.07265-red?logo=arxiv)](https://arxiv.org/abs/2503.07265)  
-  *⭐ Highly recommended! The only study exploring how understanding boosts generation via world knowledge (and yes, it's my work!).*  
+  *⭐ Highly recommended! The only study that examines whether understanding benefits generation at the level of world knowledge. (and yes, it's my work! haha).*  
 - **[2025-03-18] Unified Autoregressive Visual Generation and Understanding with Continuous Tokens**  
   [![Static Badge](https://img.shields.io/badge/2503.13436-red?logo=arxiv)](https://arxiv.org/abs/2503.13436) 
 - **[2025-03-19] DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies**  
