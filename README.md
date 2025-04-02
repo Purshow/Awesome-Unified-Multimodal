@@ -6,7 +6,7 @@
 *Curated papers on unifying multimodal understanding and generation from my regular reading.*
 
 📬 **Have a new paper or collaboration idea?** Reach out to me at: **niuyuwei04@gmail.com**.  
-🤝 **Seeking Opportunities:** I'm eager to discuss and collaborate, especially for industry internships in multimodal model unification!
+🤝 **Seeking Opportunities:** I'm eager to discuss and collaborate, especially for industry internships in unified multimodal model!
 
 ---
 
