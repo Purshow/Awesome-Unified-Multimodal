@@ -110,6 +110,8 @@
   [![Static Badge](https://img.shields.io/badge/2504.01934-red?logo=arxiv)](https://arxiv.org/abs/2504.01934)
 - **[2025-04-03] VARGPT-v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning**  
   [![Static Badge](https://img.shields.io/badge/2504.02949-red?logo=arxiv)](https://arxiv.org/abs/2504.02949)
+- **[2025-04-03] UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding**  
+  [![Static Badge](https://img.shields.io/badge/2504.04423-red?logo=arxiv)](https://arxiv.org/abs/2504.04423)
 
 
 ---
