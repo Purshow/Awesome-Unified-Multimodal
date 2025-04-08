@@ -14,7 +14,6 @@
 - [2023](#2023)
 - [2024](#2024)
 - [2025](#2025)
-- [Useful Links](#useful-links)
 
 ---
 
@@ -89,7 +88,9 @@
 - **[2025-02-17] HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation**  
   [![Static Badge](https://img.shields.io/badge/2502.12148-red?logo=arxiv)](https://arxiv.org/abs/2502.12148)  
 - **[2025-02-27] UniTok: A Unified Tokenizer for Visual Generation and Understanding**  
-  [![Static Badge](https://img.shields.io/badge/2502.20321-red?logo=arxiv)](https://arxiv.org/abs/2502.20321)  
+  [![Static Badge](https://img.shields.io/badge/2502.20321-red?logo=arxiv)](https://arxiv.org/abs/2502.20321)
+- **[2025-03-08] USP: Unified Self-Supervised Pretraining for Image Generation and Understanding**  
+  [![Static Badge](https://img.shields.io/badge/2503.06132-red?logo=arxiv)](https://arxiv.org/abs/2503.06132)
 - **[2025-03-09] SemHiTok: A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation**  
   [![Static Badge](https://img.shields.io/badge/2503.06764-red?logo=arxiv)](https://arxiv.org/abs/2503.06764)  
 - **[2025-03-10] WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation**  
@@ -104,7 +105,13 @@
 - **[2025-03-27] UGen: Unified Autoregressive Multimodal Model with Progressive Vocabulary Learning**  
   [![Static Badge](https://img.shields.io/badge/2503.21193-red?logo=arxiv)](https://arxiv.org/abs/2503.21193)  
 - **[2025-03-27] Harmonizing Visual Representations for Unified Multimodal Understanding and Generation**  
-  [![Static Badge](https://img.shields.io/badge/2503.21979-red?logo=arxiv)](https://arxiv.org/abs/2503.21979)  
+  [![Static Badge](https://img.shields.io/badge/2503.21979-red?logo=arxiv)](https://arxiv.org/abs/2503.21979)
+- **[2025-03-27] ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**  
+  [![Static Badge](https://img.shields.io/badge/2504.01934-red?logo=arxiv)](https://arxiv.org/abs/2504.01934)
+- **[2025-04-03] VARGPT-v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning**  
+  [![Static Badge](https://img.shields.io/badge/2504.02949-red?logo=arxiv)](https://arxiv.org/abs/2504.02949)
+
+
 ---
 
 ## 🔗 Useful Links
