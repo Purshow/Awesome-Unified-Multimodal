@@ -113,8 +113,8 @@
 - **[2025-04-03] UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding**  
   [![Static Badge](https://img.shields.io/badge/2504.04423-red?logo=arxiv)](https://arxiv.org/abs/2504.04423)
 - **[2025-04-09] Transfer between Modalities with MetaQueries**  
-  [![Static Badge](https://img.shields.io/badge/2504.06256-red?logo=arxiv)](https://arxiv.org/abs/2504.06256)
- *⭐ Highly recommended! *
+  [![Static Badge](https://img.shields.io/badge/2504.06256-red?logo=arxiv)](https://arxiv.org/abs/2504.06256)  
+  *⭐ Highly recommended!*  
 ---
 
 ## 🔗 Useful Links
