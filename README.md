@@ -72,7 +72,8 @@
 - **[2024-12-12] SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding**  
   [![Static Badge](https://img.shields.io/badge/2412.09604-red?logo=arxiv)](https://arxiv.org/abs/2412.09604)  
 - **[2024-12-18] MetaMorph: Multimodal Understanding and Generation via Instruction Tuning**  
-  [![Static Badge](https://img.shields.io/badge/2412.14164-red?logo=arxiv)](https://arxiv.org/abs/2412.14164)  
+  [![Static Badge](https://img.shields.io/badge/2412.14164-red?logo=arxiv)](https://arxiv.org/abs/2412.14164)
+    *⭐ Highly recommended! The most easy training way!*  
 - **[2024-12-26] LMFusion: Adapting Pretrained Language Models for Multimodal Generation**  
   [![Static Badge](https://img.shields.io/badge/2412.15188-red?logo=arxiv)](https://arxiv.org/abs/2412.15188)  
 - **[2024-12-31] Dual Diffusion for Unified Image Generation and Understanding**  
