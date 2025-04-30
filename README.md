@@ -115,7 +115,15 @@
   [![Static Badge](https://img.shields.io/badge/2504.04423-red?logo=arxiv)](https://arxiv.org/abs/2504.04423)
 - **[2025-04-09] Transfer between Modalities with MetaQueries**  
   [![Static Badge](https://img.shields.io/badge/2504.06256-red?logo=arxiv)](https://arxiv.org/abs/2504.06256)  
-  *⭐ Highly recommended!*  
+  *⭐ Highly recommended!*    
+- **[2025-04-30] Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens**  
+  [![Static Badge](https://img.shields.io/badge/2504.14666-red?logo=arxiv)](https://arxiv.org/abs/2504.14666)  
+- **[2025-04-30] Step1X-Edit: A Practical Framework for General Image Editing**  
+  [![Static Badge](https://img.shields.io/badge/2504.17761-red?logo=arxiv)](https://arxiv.org/abs/2504.17761) 
+- **[2025-04-30] X-Fusion: Introducing New Modality to Frozen Large Language Models**  
+  [![Static Badge](https://img.shields.io/badge/2504.20996-red?logo=arxiv)](https://arxiv.org/abs/2504.20996)  
+- **[2025-04-30] YoChameleon: Personalized Vision and Language Generation**  
+  [![Static Badge](https://img.shields.io/badge/2504.20998-red?logo=arxiv)](https://arxiv.org/abs/2504.20998) 
 ---
 
 ## 🔗 Useful Links
