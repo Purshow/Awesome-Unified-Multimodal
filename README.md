@@ -125,7 +125,13 @@
 - **[2025-04-29] YoChameleon: Personalized Vision and Language Generation**  
   [![Static Badge](https://img.shields.io/badge/2504.20998-red?logo=arxiv)](https://arxiv.org/abs/2504.20998) 
 - **[2025-05-01] T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**  
-  [![Static Badge](https://img.shields.io/badge/2505.00703-red?logo=arxiv)](https://arxiv.org/abs/2505.00703) 
+  [![Static Badge](https://img.shields.io/badge/2505.00703-red?logo=arxiv)](https://arxiv.org/abs/2505.00703)
+- **[2025-05-08] Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**  
+  [![Static Badge](https://img.shields.io/badge/2505.02471-red?logo=arxiv)](https://arxiv.org/abs/2505.02471) 
+- **[2025-05-09] Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**  
+  [![Static Badge](https://img.shields.io/badge/2505.05472-red?logo=arxiv)](https://arxiv.org/abs/2505.05472) 
+- **[2025-05-09] TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation**  
+  [![Static Badge](https://img.shields.io/badge/2505.05422-red?logo=arxiv)](https://arxiv.org/abs/2505.05422) 
 ---
 
 ## 🔗 Useful Links
