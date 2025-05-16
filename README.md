@@ -131,7 +131,15 @@
 - **[2025-05-09] Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**  
   [![Static Badge](https://img.shields.io/badge/2505.05472-red?logo=arxiv)](https://arxiv.org/abs/2505.05472) 
 - **[2025-05-09] TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation**  
-  [![Static Badge](https://img.shields.io/badge/2505.05422-red?logo=arxiv)](https://arxiv.org/abs/2505.05422) 
+  [![Static Badge](https://img.shields.io/badge/2505.05422-red?logo=arxiv)](https://arxiv.org/abs/2505.05422)
+- **[2025-05-15] BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**  
+  [![Static Badge](https://img.shields.io/badge/2505.09568-red?logo=arxiv)](https://arxiv.org/abs/2505.09568)
+  *⭐ Highly recommended!*    
+- **[2025-05-16] End-to-End Vision Tokenizer Tuning**  
+  [![Static Badge](https://img.shields.io/badge/2505.10562-red?logo=arxiv)](https://arxiv.org/abs/2505.10562)
+- **[2025-05-16] Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**  
+  [![Static Badge](https://img.shields.io/badge/2505.10046-red?logo=arxiv)](https://arxiv.org/abs/2505.10046)
+  
 ---
 
 ## 🔗 Useful Links
