@@ -132,6 +132,8 @@
   [![Static Badge](https://img.shields.io/badge/2505.05472-red?logo=arxiv)](https://arxiv.org/abs/2505.05472) 
 - **[2025-05-09] TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation**  
   [![Static Badge](https://img.shields.io/badge/2505.05422-red?logo=arxiv)](https://arxiv.org/abs/2505.05422)
+- **[2025-05-12] Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning**  
+  [![Static Badge](https://img.shields.io/badge/2505.07538-red?logo=arxiv)](https://arxiv.org/abs/2505.07538)  
 - **[2025-05-15] BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**  
   [![Static Badge](https://img.shields.io/badge/2505.09568-red?logo=arxiv)](https://arxiv.org/abs/2505.09568)
   *⭐ Highly recommended!*    
