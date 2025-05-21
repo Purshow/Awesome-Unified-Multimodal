@@ -143,6 +143,8 @@
   [![Static Badge](https://img.shields.io/badge/2505.10046-red?logo=arxiv)](https://arxiv.org/abs/2505.10046)
 - **[2025-05-21] Emerging Properties in Unified Multimodal Pretraining**  
   [![Static Badge](https://img.shields.io/badge/2505.14683-red?logo=arxiv)](https://arxiv.org/abs/2505.14683)
+- **[2025-05-21] UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation**  
+  [![Static Badge](https://img.shields.io/badge/2505.14682-red?logo=arxiv)](https://arxiv.org/abs/2505.14682)  
 ---
 
 ## 🔗 Useful Links
