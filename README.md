@@ -145,7 +145,10 @@
   [![Static Badge](https://img.shields.io/badge/2505.14683-red?logo=arxiv)](https://arxiv.org/abs/2505.14683)
  *⭐ Highly recommended!*    
 - **[2025-05-21] UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation**  
-  [![Static Badge](https://img.shields.io/badge/2505.14682-red?logo=arxiv)](https://arxiv.org/abs/2505.14682)  
+  [![Static Badge](https://img.shields.io/badge/2505.14682-red?logo=arxiv)](https://arxiv.org/abs/2505.14682)
+- **[2025-05-30] Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model**  
+  [![Static Badge](https://img.shields.io/badge/2505.23606-red?logo=arxiv)](https://arxiv.org/abs/2505.23606)
+ *⭐ Highly recommended!*    
 ---
 
 ## 🔗 Useful Links
