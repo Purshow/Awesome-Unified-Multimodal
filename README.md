@@ -146,9 +146,17 @@
  *⭐ Highly recommended!*    
 - **[2025-05-21] UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation**  
   [![Static Badge](https://img.shields.io/badge/2505.14682-red?logo=arxiv)](https://arxiv.org/abs/2505.14682)
+- **[2025-05-30] Are Unified Vision-Language Models Necessary: Generalization Across Understanding and Generation**  
+  [![Static Badge](https://img.shields.io/badge/2505.23043-red?logo=arxiv)](https://arxiv.org/abs/2505.23043)
+- **[2025-05-30] UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning**  
+  [![Static Badge](https://img.shields.io/badge/2505.23380-red?logo=arxiv)](https://arxiv.org/abs/2505.23380)
 - **[2025-05-30] Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model**  
   [![Static Badge](https://img.shields.io/badge/2505.23606-red?logo=arxiv)](https://arxiv.org/abs/2505.23606)
- *⭐ Highly recommended!*    
+ *⭐ Highly recommended!*
+- **[2025-05-30] OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**  
+  [![Static Badge](https://img.shields.io/badge/2505.23661-red?logo=arxiv)](https://arxiv.org/abs/2505.23661)
+- **[2025-05-30] R2I-Bench: Benchmarking Reasoning-Driven Text-to-Image Generation**  
+  [![Static Badge](https://img.shields.io/badge/2505.23493-red?logo=arxiv)](https://arxiv.org/abs/2505.23493)
 ---
 
 ## 🔗 Useful Links
