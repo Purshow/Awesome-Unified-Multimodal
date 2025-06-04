@@ -157,6 +157,10 @@
   [![Static Badge](https://img.shields.io/badge/2505.23661-red?logo=arxiv)](https://arxiv.org/abs/2505.23661)
 - **[2025-05-30] R2I-Bench: Benchmarking Reasoning-Driven Text-to-Image Generation**  
   [![Static Badge](https://img.shields.io/badge/2505.23493-red?logo=arxiv)](https://arxiv.org/abs/2505.23493)
+- **[2025-06-04] UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**  
+  [![Static Badge](https://img.shields.io/badge/2506.03147-red?logo=arxiv)](https://arxiv.org/abs/2506.03147) [![Static Badge](https://img.shields.io/badge/UniWorld-V1-black?logo=github)](https://github.com/PKU-YuanGroup/UniWorld-V1)
+   *⭐ Highly recommended!*
+
 ---
 
 ## 🔗 Useful Links
