@@ -160,6 +160,8 @@
 - **[2025-06-04] UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**  
   [![Static Badge](https://img.shields.io/badge/2506.03147-red?logo=arxiv)](https://arxiv.org/abs/2506.03147) [![Static Badge](https://img.shields.io/badge/UniWorld-V1-black?logo=github)](https://github.com/PKU-YuanGroup/UniWorld-V1)
    *⭐ Highly recommended!*
+- **[2025-06-08] LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer**  
+  [![Static Badge](https://img.shields.io/badge/2506.03147-red?logo=arxiv)](https://arxiv.org/pdf/2506.06952) [![Static Badge](https://img.shields.io/badge/UniWorld-V1-black?logo=github)](https://github.com/yingShen-ys/LaTtE-Flow)
 - **[2025-06-09] Reinforcing Multimodal Understanding and Generation with Dual Self-rewards**  
   [![Static Badge](https://img.shields.io/badge/2506.03147-red?logo=arxiv)](https://arxiv.org/abs/2506.07963) 
 
