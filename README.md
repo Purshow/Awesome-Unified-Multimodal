@@ -166,6 +166,8 @@
   [![Static Badge](https://img.shields.io/badge/2506.03147-red?logo=arxiv)](https://arxiv.org/abs/2506.07963) 
 - **[2025-06-19] Show-o2: Improved Native Unified Multimodal Models**  
   [![Static Badge](https://img.shields.io/badge/2506.15564v1-red?logo=arxiv)](https://arxiv.org/abs/2506.15564v1)[![Static Badge](https://img.shields.io/badge/Show_o-black?logo=github)](https://github.com/showlab/Show-o)
+- **[2025-06-25] Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**  
+  [![Static Badge](https://img.shields.io/badge/2506.18898-red?logo=arxiv)](https://arxiv.org/abs/2506.18898)
 
 
 ---
