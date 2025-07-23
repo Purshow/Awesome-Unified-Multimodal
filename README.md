@@ -141,6 +141,8 @@
   [![Static Badge](https://img.shields.io/badge/2505.10562-red?logo=arxiv)](https://arxiv.org/abs/2505.10562)
 - **[2025-05-16] Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis**  
   [![Static Badge](https://img.shields.io/badge/2505.10046-red?logo=arxiv)](https://arxiv.org/abs/2505.10046)
+- **[2025-05-19] MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO**  
+  [![Static Badge](https://img.shields.io/badge/2505.13031-red?logo=arxiv)](https://arxiv.org/abs/2506.03147) [![Static Badge](https://img.shields.io/badge/MindOmni-black?logo=github)](https://github.com/TencentARC/MindOmni)
 - **[2025-05-21] Emerging Properties in Unified Multimodal Pretraining**  
   [![Static Badge](https://img.shields.io/badge/2505.14683-red?logo=arxiv)](https://arxiv.org/abs/2505.14683)
  *⭐ Highly recommended!*    
