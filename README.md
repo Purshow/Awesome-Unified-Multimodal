@@ -170,7 +170,8 @@
   [![Static Badge](https://img.shields.io/badge/2506.15564v1-red?logo=arxiv)](https://arxiv.org/abs/2506.15564v1)[![Static Badge](https://img.shields.io/badge/Show_o-black?logo=github)](https://github.com/showlab/Show-o)
 - **[2025-06-25] Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**  
   [![Static Badge](https://img.shields.io/badge/2506.18898-red?logo=arxiv)](https://arxiv.org/abs/2506.18898)
-
+- **[2025-07-30]  X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again**  
+  [![Static Badge](https://img.shields.io/badge/2507.22058-red?logo=arxiv)](https://arxiv.org/abs/2507.22058)
 
 ---
 
