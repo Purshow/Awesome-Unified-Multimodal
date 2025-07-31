@@ -10,6 +10,12 @@
 
 ---
 
+## 📖 Tracing the Evolution of Unified Generation Foundation Models
+
+![Tracing the Evolution of Unified Generation Foundation Models](./Evolution.png)
+
+---
+
 ## 📑 Table of Contents
 - [2023](#2023)
 - [2024](#2024)
