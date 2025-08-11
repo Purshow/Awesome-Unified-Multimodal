@@ -172,7 +172,11 @@
   [![Static Badge](https://img.shields.io/badge/2506.18898-red?logo=arxiv)](https://arxiv.org/abs/2506.18898)
 - **[2025-07-30]  X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again**  
   [![Static Badge](https://img.shields.io/badge/2507.22058-red?logo=arxiv)](https://arxiv.org/abs/2507.22058)
-
+- **[2025-08-04] Qwen-Image Technical Report**  
+  [![Static Badge](https://img.shields.io/badge/2508.02324-red?logo=arxiv)](https://arxiv.org/abs/2506.03147) [![Static Badge](https://img.shields.io/badge/Qwen-Image-black?logo=github)](https://github.com/QwenLM/Qwen-Image)
+   *⭐ Highly recommended!*
+- **[2025-08-08]  Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with Patch-level CLIP Latents**  
+  [![Static Badge](https://img.shields.io/badge/2508.05954-red?logo=arxiv)](https://arxiv.org/abs/2508.05954)
 ---
 
 ## 🔗 Useful Links
