@@ -177,6 +177,8 @@
    *⭐ Highly recommended!*
 - **[2025-08-08]  Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with Patch-level CLIP Latents**  
   [![Static Badge](https://img.shields.io/badge/2508.05954-red?logo=arxiv)](https://arxiv.org/abs/2508.05954)
+- **[2025-09-08] OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation**
+  [![Static Badge](https://img.shields.io/badge/2509.03498-red?logo=arxiv)](https://arxiv.org/abs/2509.03498) [![Static Badge](https://img.shields.io/badge/OneCAT-black?logo=github)](https://github.com/onecat-ai/OneCAT)
 ---
 
 ## 🔗 Useful Links
