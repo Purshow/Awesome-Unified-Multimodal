@@ -20,6 +20,8 @@
 ## 📄 Papers
 
 ### 2025
+- **[2025-09-18] GenExam: A Multidisciplinary Text-to-Image Exam**  
+  [![Static Badge](https://img.shields.io/badge/2509.14232-red?logo=arxiv)](https://www.arxiv.org/abs/2509.14232) [![Static Badge](https://img.shields.io/badge/GenExam-black?logo=github)](https://github.com/OpenGVLab/GenExam)
 - **[2025-09-10] Reconstruction Alignment Improves Unified Multimodal Models**  
   [![Static Badge](https://img.shields.io/badge/2509.07295-red?logo=arxiv)](https://www.arxiv.org/abs/2509.07295) [![Static Badge](https://img.shields.io/badge/RecA-black?logo=github)](https://github.com/HorizonWind2004/reconstruction-alignment)
    *⭐ Highly recommended!*
