@@ -22,6 +22,9 @@
 ### 2025
 - **[2025-09-18] GenExam: A Multidisciplinary Text-to-Image Exam**  
   [![Static Badge](https://img.shields.io/badge/2509.14232-red?logo=arxiv)](https://www.arxiv.org/abs/2509.14232) [![Static Badge](https://img.shields.io/badge/GenExam-black?logo=github)](https://github.com/OpenGVLab/GenExam)
+- **[2025-09-25] MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer**
+ [![Static Badge](https://img.shields.io/badge/2509.16197-red?logo=arxiv)](https://arxiv.org/abs/2509.16197)
+   *⭐ Highly recommended!*
 - **[2025-09-10] Reconstruction Alignment Improves Unified Multimodal Models**  
   [![Static Badge](https://img.shields.io/badge/2509.07295-red?logo=arxiv)](https://www.arxiv.org/abs/2509.07295) [![Static Badge](https://img.shields.io/badge/RecA-black?logo=github)](https://github.com/HorizonWind2004/reconstruction-alignment)
    *⭐ Highly recommended!*
@@ -34,6 +37,8 @@
    *⭐ Highly recommended!*
 - **[2025-07-30]  X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again**  
   [![Static Badge](https://img.shields.io/badge/2507.22058-red?logo=arxiv)](https://arxiv.org/abs/2507.22058)
+- **[2025-07-23] Turning Internal Gap into Self-Improvement: Promoting the Generation-Understanding Unification in MLLMs**
+  [![Static Badge](https://img.shields.io/badge/2507.16663-red?logo=arxiv)](https://arxiv.org/abs/2507.16663)
 - **[2025-06-25] Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**  
   [![Static Badge](https://img.shields.io/badge/2506.18898-red?logo=arxiv)](https://arxiv.org/abs/2506.18898)
 - **[2025-06-19] Show-o2: Improved Native Unified Multimodal Models**  
