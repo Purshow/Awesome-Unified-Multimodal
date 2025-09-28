@@ -22,7 +22,7 @@
 ### 2025
 - **[2025-09-18] GenExam: A Multidisciplinary Text-to-Image Exam**  
   [![Static Badge](https://img.shields.io/badge/2509.14232-red?logo=arxiv)](https://www.arxiv.org/abs/2509.14232) [![Static Badge](https://img.shields.io/badge/GenExam-black?logo=github)](https://github.com/OpenGVLab/GenExam)
-- **[2025-09-25] MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer**
+- **[2025-09-25] MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer**  
  [![Static Badge](https://img.shields.io/badge/2509.16197-red?logo=arxiv)](https://arxiv.org/abs/2509.16197)
    *⭐ Highly recommended!*
 - **[2025-09-10] Reconstruction Alignment Improves Unified Multimodal Models**  
