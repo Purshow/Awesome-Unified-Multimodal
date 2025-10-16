@@ -20,6 +20,8 @@
 ## 📄 Papers
 
 ### 2025
+- **[2025-10-15] SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models**  
+ [![Static Badge](https://img.shields.io/badge/2510.12784-red?logo=arxiv)](https://arxiv.org/abs/2510.12784) [![Static Badge](https://img.shields.io/badge/SRUM-black?logo=github)](https://github.com/WayneJin0918/SRUM)
 - **[2025-09-19] MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer**  
  [![Static Badge](https://img.shields.io/badge/2509.16197-red?logo=arxiv)](https://arxiv.org/abs/2509.16197)
    *⭐ Highly recommended!*
