@@ -20,6 +20,9 @@
 ## 📄 Papers
 
 ### 2025
+
+- **[2026-01-07] UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision** [![Static Badge](https://img.shields.io/badge/2601.03193-red?logo=arxiv)](https://arxiv.org/abs/2601.03193) [![Static Badge](https://img.shields.io/badge/UniCorn-black?logo=github)](https://github.com/Hungryyan1/UniCorn)
+- **[2025-11-28] Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward** [![Static Badge](https://img.shields.io/badge/2511.20561-red?logo=arxiv)](https://arxiv.org/abs/2511.20561) [![Static Badge](https://img.shields.io/badge/UniSandBox-black?logo=github)](https://github.com/PKU-YuanGroup/UniSandBox)
 - **[2025-10-15] SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models**  
  [![Static Badge](https://img.shields.io/badge/2510.12784-red?logo=arxiv)](https://arxiv.org/abs/2510.12784) [![Static Badge](https://img.shields.io/badge/SRUM-black?logo=github)](https://github.com/WayneJin0918/SRUM)
    *📧 You can contact us by mail, authorized!*
