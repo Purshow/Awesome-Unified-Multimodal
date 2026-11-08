@@ -21,6 +21,8 @@
 
 ### 2025
 
+- **[2026-02-09] UReason: Benchmarking Reasoning-to-Generation Alignment in Unified Multimodal Models**  
+  [![Static Badge](https://img.shields.io/badge/2602.08336-red?logo=arxiv)](https://arxiv.org/abs/2602.08336) [![Static Badge](https://img.shields.io/badge/UReason-black?logo=github)](https://github.com/UReason/UReason)
 - **[2026-01-07] UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision** [![Static Badge](https://img.shields.io/badge/2601.03193-red?logo=arxiv)](https://arxiv.org/abs/2601.03193) [![Static Badge](https://img.shields.io/badge/UniCorn-black?logo=github)](https://github.com/Hungryyan1/UniCorn)
 - **[2025-11-28] Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward** [![Static Badge](https://img.shields.io/badge/2511.20561-red?logo=arxiv)](https://arxiv.org/abs/2511.20561) [![Static Badge](https://img.shields.io/badge/UniSandBox-black?logo=github)](https://github.com/PKU-YuanGroup/UniSandBox)
 - **[2025-10-15] SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models**  
